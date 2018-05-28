@@ -1,0 +1,15 @@
+body{
+    background-image: url("websites1.jpg");
+   text-align: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color:red;
+}
+a{
+    text-align: center;
+   
+    color:brown;
+
+}

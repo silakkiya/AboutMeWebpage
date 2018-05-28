@@ -1,0 +1,21 @@
+body{
+    
+     background: url("falling-leaves-natural-background-beautiful-landscape-yellow-trees-green-grass-sun-colorful-foliage-park-77752522.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  div.a {
+     text-align: center;
+     font-style: oblique;
+     font-size: 150%;
+     height: 100%;
+     width: 100%;
+     display: flex;
+     position: fixed;
+     align-items: center;
+     justify-content: center;
+     text-align: center;
+     color: black;
+ }

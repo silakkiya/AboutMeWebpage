@@ -1,0 +1,16 @@
+body{
+    
+     background: url("back.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  h1 {
+     color:red;
+     text-align: center;
+ }
+ ul.a {
+     text-align: center;
+     color:#00FF59;
+ }
